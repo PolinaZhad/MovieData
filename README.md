@@ -1,4 +1,4 @@
-# MovieData
+
 # Movie Data Analysis Dashboard
 
 
@@ -59,7 +59,9 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-
+1. Distribution of budget, revenue, and ratings to understand the range and identify outliers
+2.  Most Profitable Genres
+3.  Most Successful Actors
 
 ### Results and Findings
 
