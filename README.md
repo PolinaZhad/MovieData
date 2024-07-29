@@ -25,7 +25,7 @@ Movie Data:
 
 The main dataset for this analysis is the "Movie Data Homework.xmls" file, which includes detailed information about each movie's performance, actors, directors, and more.
 
-[Download here]([https://github.com/Irene-arch/Documenting_Example?tab=readme-ov-fil](https://github.com/PolinaZhad/MovieData/blob/main/Homework10.xlsx)e)
+[Download here]([https://github.com/Irene-arch/Documenting_Example?tab=readme-ov-fil](https://github.com/PolinaZhad/MovieData/blob/main/Homework10.xlsx)
 
 
 
