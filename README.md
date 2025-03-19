@@ -73,7 +73,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 One of interesting features I was working with was a specific code for Grouping in M language which enable me to Combine genres together for further analysis.
 
-
+```
 
 = Table.Group(#"Sorted Rows1", {"Movie Title"}, 
 
@@ -85,4 +85,4 @@ One of interesting features I was working with was a specific code for Grouping 
 
                                             }
 
-
+```
