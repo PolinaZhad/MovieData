@@ -86,3 +86,16 @@ One of interesting features I was working with was a specific code for Grouping 
                                             }
 
 ```
+
+
+
+
+= Table.Group(#"Sorted Rows1", {"Movie Title"}, 
+
+                                            {{"Combined Genre", each Text.Combine([Concat Genre], " / "), type text},
+
+                                            {"AllData", each _, 
+
+                                                        type table [Movie Title=nullable text, Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director=nullable text, Actor First=nullable text, Actor Second=nullable text, Actor Third=nullable text, Actor Fourth=nullable text, Actor Fifth=nullable text, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number]}
+
+                                            }
